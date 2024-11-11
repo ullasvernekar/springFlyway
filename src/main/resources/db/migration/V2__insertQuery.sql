@@ -1,0 +1,1 @@
+INSERT INTO user(id,name,role,phone,password)VALUES("U-01","Moin Khan","SUPER ADMIN","6362251126","u23");
